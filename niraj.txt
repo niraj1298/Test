@@ -7,3 +7,5 @@ bananas
 carrots
 cherries
 frooty loops
+legos
+toys
